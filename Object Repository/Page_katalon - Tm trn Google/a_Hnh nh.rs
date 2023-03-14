@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hnh nh</name>
+   <tag></tag>
+   <elementGuidId>a809e048-e46e-4a47-ada0-428925013018</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdtb-msb']/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hdtb-mitem > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da935d5b-d4e7-4c2e-a132-0d7c50523e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search?q=katalon&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjGh5bE46j9AhVHSmwGHaIKBEYQ_AUoAXoECAEQAw</value>
+      <webElementGuid>57d8c930-fada-40de-8e96-1a77298c1b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hveid</name>
+      <type>Main</type>
+      <value>CAEQAw</value>
+      <webElementGuid>b9ce78db-5a41-4fdd-b760-9e46e13ff6b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hình ảnh</value>
+      <webElementGuid>1f633861-092b-4485-9e37-cf465b0b39e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdtb-msb&quot;)/div[1]/div[@class=&quot;MUFPAc&quot;]/div[@class=&quot;hdtb-mitem&quot;]/a[1]</value>
+      <webElementGuid>64854dbf-cbd8-4681-b594-808a4dcb7e82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdtb-msb']/div/div/div[2]/a</value>
+      <webElementGuid>98235c71-990c-4751-abd5-77a534c7f07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Hình ảnh')]</value>
+      <webElementGuid>f8144a26-8eb0-4db4-8bd3-26ded89ad965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tất cả'])[1]/following::a[1]</value>
+      <webElementGuid>78716520-c6dd-4dc5-9f63-fa9e595b9713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chế độ tìm kiếm'])[1]/following::a[1]</value>
+      <webElementGuid>d907d9cc-7d41-4ec7-8bbd-89c91c0a2aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/preceding::a[1]</value>
+      <webElementGuid>1cff147c-4736-442b-ab38-c530399d894f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin tức'])[1]/preceding::a[2]</value>
+      <webElementGuid>095766d7-ec0f-42f8-a257-717c95dbdb79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hình ảnh']/parent::*</value>
+      <webElementGuid>82d11329-d919-4cc7-9829-7fa2fb9f05f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search?q=katalon&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjGh5bE46j9AhVHSmwGHaIKBEYQ_AUoAXoECAEQAw')]</value>
+      <webElementGuid>0d1f37c0-e3c3-4cb7-ae67-a508dd299417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>512dddd1-6b6e-4f9a-96c1-00e7af3a0e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search?q=katalon&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjGh5bE46j9AhVHSmwGHaIKBEYQ_AUoAXoECAEQAw' and (text() = 'Hình ảnh' or . = 'Hình ảnh')]</value>
+      <webElementGuid>e8976e8e-ef34-46b1-888a-69c70b2a3b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

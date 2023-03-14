@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pp.tt.tt p.c.tuyt vi.Khng ti c ht cc kt_67a06a</name>
+   <tag></tag>
+   <elementGuidId>63d42810-7e9a-445a-b651-6cda723e0cfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div/div[8]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lRu31</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7e05893-ebf4-42d9-a133-c242b8d14f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lRu31</value>
+      <webElementGuid>90a0f69b-e23e-4f2f-956d-3dac5f675b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốc</value>
+      <webElementGuid>5acc0970-6b0f-476e-af66-29bfee79e5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;sciAJc&quot;]/div[@class=&quot;QcsUad BDJ8fb&quot;]/div[@class=&quot;usGWQd&quot;]/div[@class=&quot;KkbLmb&quot;]/div[@class=&quot;lRu31&quot;]</value>
+      <webElementGuid>18a06b4d-1010-421a-805c-89b6aa56b87a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div/div[8]/div/div</value>
+      <webElementGuid>16727199-db86-4c68-90e7-a2481767e246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu bản dịch'])[1]/following::div[6]</value>
+      <webElementGuid>3387f710-1a34-4b78-be99-748427d8c56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thử lại'])[1]/following::div[14]</value>
+      <webElementGuid>435a831d-17a8-4edd-8ec9-4da5ae0ede64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>a5bbf3cd-08df-466a-8cd7-4bb1cdebcb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốc' or . = 'ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốc')]</value>
+      <webElementGuid>bcbcc40e-a21a-46ff-874a-124c9fa87aa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

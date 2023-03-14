@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pp.tt.tt p.c.tuyt vi.Khng ti c ht cc kt_496db4</name>
+   <tag></tag>
+   <elementGuidId>88be27ca-b611-43f4-981f-210082b2e6ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div/div[8]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.KkbLmb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34f2ea1c-35f7-4fb9-9d0a-4d2f6b75e627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>KkbLmb</value>
+      <webElementGuid>5e08e052-eab7-4d78-a79d-11c838c2cbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>rcuQ6b:uniPq;agoMJf:uniPq;PAwimb:fO5Jj;H1e5u:psubsc,xEIEwf,vvaHqf,xdbiQe,Omr8vc,aVxZJe;kjpCo:M9Rw9,ZIIOPb;wv82t:J6WBWe,rPLeTe;mzWwbd:uniPq;Aq4dme:TWxCtb; dblclick:wgdrZd</value>
+      <webElementGuid>5d49c1f7-3dcf-4b43-b0a7-14b0a2892de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jscontroller</name>
+      <type>Main</type>
+      <value>Y8Tgfc</value>
+      <webElementGuid>85cefd68-f820-41f1-bde8-1e166f1d7afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốcHiện thêmẨn bớt ĐẹpXóa văn bảnHủyGửiChúng tôi sẽ sử dụng nội dung bạn đóng góp để cải thiện chất lượng bản dịch và có thể cho người dùng khác xem các nội dung này (mà không xác định danh tính của bạn). Tìm hiểu thêmĐang tải...NgheSao chép bản dịchXếp hạng bản dịch nàyXếp hạng bản dịch nàyBản dịch tốtBản dịch kémChúng tôi sẽ sử dụng ý kiến phản hồi của bạn để giúp cải thiện sản phẩmeditĐề xuất chỉnh sửaChia sẻ bản dịchChia sẻ bản dịch nàyEmailTwitter</value>
+      <webElementGuid>7ba39cf7-1f7e-4987-829d-1fadadc50926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;sciAJc&quot;]/div[@class=&quot;QcsUad BDJ8fb&quot;]/div[@class=&quot;usGWQd&quot;]/div[@class=&quot;KkbLmb&quot;]</value>
+      <webElementGuid>3165fe1b-dd50-4284-8a06-d1e1c98f3669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div/div[8]/div</value>
+      <webElementGuid>cbbe8930-eba4-4a63-8dde-b12570080bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu bản dịch'])[1]/following::div[5]</value>
+      <webElementGuid>206d1081-c878-47b4-8e12-603478fe5efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thử lại'])[1]/following::div[13]</value>
+      <webElementGuid>b9bc1291-b09b-4d27-93c6-54acfe71f9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-wiz[2]/div/div[8]/div</value>
+      <webElementGuid>51461985-c8f6-41cf-be54-6578456da632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốcHiện thêmẨn bớt ĐẹpXóa văn bảnHủyGửiChúng tôi sẽ sử dụng nội dung bạn đóng góp để cải thiện chất lượng bản dịch và có thể cho người dùng khác xem các nội dung này (mà không xác định danh tính của bạn). Tìm hiểu thêmĐang tải...NgheSao chép bản dịchXếp hạng bản dịch nàyXếp hạng bản dịch nàyBản dịch tốtBản dịch kémChúng tôi sẽ sử dụng ý kiến phản hồi của bạn để giúp cải thiện sản phẩmeditĐề xuất chỉnh sửaChia sẻ bản dịchChia sẻ bản dịch nàyEmailTwitter' or . = 'ĐẹpĐẹp...tốt...tốt đẹp...được...tuyệt vời...Không tải được hết các kết quảThử lạiĐang thử lại......(Đã chỉnh sửa)Khôi phục văn bản gốcHiện thêmẨn bớt ĐẹpXóa văn bảnHủyGửiChúng tôi sẽ sử dụng nội dung bạn đóng góp để cải thiện chất lượng bản dịch và có thể cho người dùng khác xem các nội dung này (mà không xác định danh tính của bạn). Tìm hiểu thêmĐang tải...NgheSao chép bản dịchXếp hạng bản dịch nàyXếp hạng bản dịch nàyBản dịch tốtBản dịch kémChúng tôi sẽ sử dụng ý kiến phản hồi của bạn để giúp cải thiện sản phẩmeditĐề xuất chỉnh sửaChia sẻ bản dịchChia sẻ bản dịch nàyEmailTwitter')]</value>
+      <webElementGuid>9be6f300-71d4-48c6-9657-260a89989a00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
