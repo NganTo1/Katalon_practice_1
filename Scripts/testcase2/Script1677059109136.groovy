@@ -31,7 +31,7 @@ WebUI.doubleClick(findTestObject('Object Repository/Page_google dich - Tm trn Go
 
 WebUI.setText(findTestObject('Object Repository/Page_google dich - Tm trn Google/input__q'), '')
 
-Thread.sleep(3000)
+Thread.sleep(2000)
 
 WebUI.closeBrowser()
 
